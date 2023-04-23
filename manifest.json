@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "OUJ Player Controller",
+  "description": "デフォルトで倍速にしたい",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": ["https://online.ouj.ac.jp/mod/vimeo/*"],
+      "js": ["main.js"]
+    }
+  ]
+}
