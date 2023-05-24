@@ -1,5 +1,5 @@
 ## Chrome Web Store
-https://chrome.google.com/webstore/detail/ouj-player-controller/acmfnfhhpbpjpldhcgpadpknbkbbnmop?hl=ja&authuser=0
+https://chrome.google.com/webstore/detail/ouj-player-controller/acmfnfhhpbpjpldhcgpadpknbkbbnmop
 
 ## 概要
 放送大学のオンライン授業はデフォルトで、1倍速で再生される。
